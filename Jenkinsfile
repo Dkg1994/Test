@@ -15,7 +15,7 @@ pipeline {
 
             steps {
                 withMaven(maven : 'Maven Machine') {
-                    sh 'mvn test'
+                    sh 'mvn Test1'
                 }
             }
         }
