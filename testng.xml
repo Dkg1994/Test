@@ -3,7 +3,12 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="com.Test.Test1.Sign_In"/>
+      <class name="com.goibibo.Web.Goibibo_Desktop1.Dom_Hotel"/>
+      <class name="com.goibibo.Web.Goibibo_Desktop1.Train_Vertical"/>
+      <class name="com.goibibo.Web.Goibibo_Desktop1.Car_Vertical"/>
+      <class name="com.goibibo.Web.Goibibo_Desktop1.International_Hotel"/>
+      <class name="com.goibibo.Web.Goibibo_Desktop1.Bus_Vertical"/>
+ 
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

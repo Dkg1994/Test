@@ -1,28 +1,21 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
+  
+  
+  
 
-  <groupId>com.Test</groupId>
-  <artifactId>Test1</artifactId>
+  <groupId>.com.goibibo.Web</groupId>
+  <artifactId>Goibibo_Desktop1</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>Test1</name>
+  <name>Goibibo_Desktop1</name>
   <url>http://maven.apache.org</url>
-  
-  <distributionManagement>
-    <repository>
-    
-      <id>Test1</id>
-      <name>Test1</name>
-      <url>https://github.com/Dkg1994/Test1</url>
-    </repository>
-</distributionManagement>
-  
 
   <properties>
   
-  <groupId>ExtentReportScreenshot</groupId>
+   <groupId>ExtentReportScreenshot</groupId>
 	<artifactId>ExtentReportScreenshot</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
@@ -31,9 +24,19 @@
 	<url>http://maven.apache.org</url>
     
   
-  
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
+  
+ <distributionManagement>
+    <repository>
+      <id>Goibibo-Desktop-</id>
+      <name>Goibibo-Desktop-</name>
+      <url>https://github.com/Dkg1994/Goibibo-Desktop-</url>
+    </repository>
+</distributionManagement>
+
+
+
 
   <dependencies>
     <dependency>
@@ -43,6 +46,7 @@
       <scope>test</scope>
     </dependency>
     
+        
      <dependency>
         <groupId>org.seleniumhq.selenium</groupId>
         <artifactId>selenium-java</artifactId>
@@ -95,9 +99,10 @@
   
   
     
-     </dependencies>
-     
-     
+  </dependencies>
+  
+  
+  
   <build>
     <pluginManagement>
       <plugins>
@@ -135,5 +140,3 @@
   
   
 </project>
-     
-     

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="376391" started-at="2019-08-01T11:02:19Z" finished-at="2019-08-01T11:08:35Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="376391" started-at="2019-08-01T11:02:19Z" finished-at="2019-08-01T11:08:35Z">
+      <class name="com.goibibo.Web.Goibibo_Desktop1.Car_Vertical">
+        <test-method status="PASS" signature="f()[pri:0, instance:com.goibibo.Web.Goibibo_Desktop1.Car_Vertical@6aaa5eb0]" name="f" duration-ms="42834" started-at="2019-08-01T11:05:09Z" finished-at="2019-08-01T11:05:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- com.goibibo.Web.Goibibo_Desktop1.Car_Vertical -->
+      <class name="com.goibibo.Web.Goibibo_Desktop1.Bus_Vertical">
+        <test-method status="PASS" signature="f()[pri:0, instance:com.goibibo.Web.Goibibo_Desktop1.Bus_Vertical@1a407d53]" name="f" duration-ms="81739" started-at="2019-08-01T11:07:14Z" finished-at="2019-08-01T11:08:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- com.goibibo.Web.Goibibo_Desktop1.Bus_Vertical -->
+      <class name="com.goibibo.Web.Goibibo_Desktop1.Train_Vertical">
+        <test-method status="PASS" signature="f()[pri:0, instance:com.goibibo.Web.Goibibo_Desktop1.Train_Vertical@13969fbe]" name="f" duration-ms="67433" started-at="2019-08-01T11:04:01Z" finished-at="2019-08-01T11:05:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- com.goibibo.Web.Goibibo_Desktop1.Train_Vertical -->
+      <class name="com.goibibo.Web.Goibibo_Desktop1.International_Hotel">
+        <test-method status="PASS" signature="f()[pri:0, instance:com.goibibo.Web.Goibibo_Desktop1.International_Hotel@3498ed]" name="f" duration-ms="82137" started-at="2019-08-01T11:05:51Z" finished-at="2019-08-01T11:07:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- com.goibibo.Web.Goibibo_Desktop1.International_Hotel -->
+      <class name="com.goibibo.Web.Goibibo_Desktop1.Dom_Hotel">
+        <test-method status="PASS" signature="f()[pri:0, instance:com.goibibo.Web.Goibibo_Desktop1.Dom_Hotel@22f71333]" name="f" duration-ms="102223" started-at="2019-08-01T11:02:19Z" finished-at="2019-08-01T11:04:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- com.goibibo.Web.Goibibo_Desktop1.Dom_Hotel -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
